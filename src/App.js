@@ -58,7 +58,7 @@ function SkillList() {
 //create skill component
 
 function Skill(props) {
-  //props is an object
+  //props is an object..
   //console.log(props);
   return (
     //to add styling we use style={{property:value}}
